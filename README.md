@@ -1,6 +1,6 @@
-### Oi, eu sou o Pedro Henrique Carniel, estudante de Ciência da Computação do IFSUL 2/8 
+### Oi, eu sou o Pedro Henrique Carniel, estudante de Ciência da Computação do IFSUL 3/8 
 
-- 🌱 Estudante de JavaScript, HTML, CSS, e C++
+- 🌱 Analista de Testes - QA
 - 📫 Contato no email: pedrohcastamancarniel@gmail.com 
 
 ### Um pouco sobre mim 
