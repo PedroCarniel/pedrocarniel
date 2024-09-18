@@ -1,17 +1,51 @@
-### Oi, eu sou o Pedro Henrique Carniel, estudante de Ciência da Computação do IFSUL 3/8 
-
-- 🌱 Analista de Testes - QA
-- 📫 Contato no email: pedrohcastamancarniel@gmail.com 
-
-### Um pouco sobre mim:
-
-Tive contato com tecnologia desde muito cedo e acabei adorando e querendo aprender sobre como o que eu fazia no computador funcionava, sendo assim decidi fazer uma formação técnica no curso de Tecnologia da Informação fornecido pela Escola Estadual João de Césaro no qual conclui o mesmo em 21/12/2022. Atualmente sou estudante do Instituto Federal de Educação, Ciência e Tecnologia Sul-rio-grandense no curso em Bacharelado da Ciência da Computação para adquirir o conhecimento necessário e trabalhar na área como Engenheiro QA.
-
-<div style="display: inline_block"><br>
-
-  
-  
-  ##
- 
-
+<div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
 </div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/pedro-carniel/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<h1 align="center">Bem vindo ao meu perfil - Welcome to my profile</h1>
+
+###
+
+<h3 align="left">👩‍💻  Sobre mim - About me</h3>
+
+###
+
+<p align="left">Sou Pedro Henrique Carniel, de Passo Fundo, Rio Grande do Sul.<br><br>Atualmente sou estudante de informática no IFSul - campus Passo Fundo<br><br>- 🔭 Estou trabalhando como analista de testes.<br>- 📚 Atualmente estou aprendendo Ruby.<br>- ⚡ No meu tempo livre jogo, estudo e programo.<br><br>=====================================================================================================<br><br>I'm Pedro Henrique Carniel from Passo Fundo, Rio Grande do Sul.<br><br>I am currently a computer science student at the IFSul - Passo Fundo campus<br><br>- 🔭 I’m working as test analyst.<br>- 📚 I'm currently learning ruby.<br>- ⚡ In my free time I play games and study/code.</p>
+
+###
+
+<h3 align="left">🛠 Linguages e ferramentas - Languages and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   Meus status - My Stats</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=PedroCarniel&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
