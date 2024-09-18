@@ -1,3 +1,10 @@
+<div align="center">
+  <a href="https://www.linkedin.com/in/pedro-carniel/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
 
 <h1 align="center">Bem vindo ao meu perfil - Welcome to my profile</h1>
 
@@ -7,7 +14,7 @@
 
 ###
 
-<p align="left">Sou Pedro Henrique Carniel, de Passo Fundo, Rio Grande do Sul.<br><br>Atualmente sou estudante de informática no IFSul - campus Passo Fundo<br><br>- 🔭 Estou trabalhando como analista de testes.<br>- 📚 Atualmente estou aprendendo Ruby.<br>- ⚡ No meu tempo livre jogo, estudo e programo.<br><br>===========================================================================<br><br>I'm Pedro Henrique Carniel from Passo Fundo, Rio Grande do Sul.<br><br>I am currently a computer science student at the IFSul - Passo Fundo campus<br><br>- 🔭 I’m working as test analyst.<br>- 📚 I'm currently learning ruby.<br>- ⚡ In my free time I play games and study/code.</p>
+<p align="left">Sou Pedro Henrique Carniel, de Passo Fundo, Rio Grande do Sul.<br><br>Atualmente sou estudante de informática no IFSul - campus Passo Fundo<br><br>- 🔭 Estou trabalhando como analista de testes.<br>- 📚 Atualmente estou aprendendo Ruby.<br>- ⚡ No meu tempo livre jogo, estudo e programo.<br><br>=============================================================================<br><br>I'm Pedro Henrique Carniel from Passo Fundo, Rio Grande do Sul.<br><br>I am currently a computer science student at the IFSul - Passo Fundo campus<br><br>- 🔭 I’m working as test analyst.<br>- 📚 I'm currently learning ruby.<br>- ⚡ In my free time I play games and study/code.</p>
 
 ###
 
